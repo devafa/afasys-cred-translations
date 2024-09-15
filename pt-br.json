@@ -27,7 +27,8 @@
   },
   "Labels": {
     "textEmail": "E-mail",
-    "textPassword": "Senha"
+    "textPassword": "Senha",
+    "textCompanyDetails": "Dados da empresa"
   },
   "Placeholders": {
     "textEmailPlaceholder": "digite seu e-mail",
