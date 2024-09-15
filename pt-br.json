@@ -1,0 +1,48 @@
+{
+  "Common": {
+    "textLogin": "Entrar",
+    "textBack": "Voltar",
+    "textCancel": "Cancelar",
+    "textSave": "Salvar",
+    "textDelete": "Excluir",
+    "textYes": "Sim",
+    "textNo": "Não",
+    "textOk": "Ok",
+    "textLoading": "Carregando...",
+    "textLoggingIn": "Entrando...",
+    "textError": "Erro",
+    "textSuccess": "Sucesso",
+    "textWarning": "Aviso",
+    "textInfo": "Informação",
+    "textConfirm": "Confirmação",
+    "textLogout": "Sair"
+  },
+  "Titles": {
+    "textRegister": "Crie sua credencial de acesso",
+    "titleLogin": "Faça login na sua conta",
+    "titleSelectCompany": "Selecione a empresa"
+  },
+  "Links": {
+    "textForgotYourPassword": "Esqueci minha senha"
+  },
+  "Labels": {
+    "textEmail": "E-mail",
+    "textPassword": "Senha"
+  },
+  "Placeholders": {
+    "textEmailPlaceholder": "digite seu e-mail",
+    "textPasswordPlaceholder": "digite sua senha"
+  },
+  "Validations": {
+    "textRequired": "* obrigatório",
+    "textEmailRequired": "E-mail é obrigatório",
+    "textEmailInvalid": "E-mail inválido",
+    "textPasswordRequired": "Senha é obrigatória",
+    "textPasswordTooShort": "Senha muito curta",
+    "textPasswordNotMatch": "Passwords don't match",
+    "textInvalidCredentials": "Credenciais inválidas",
+    "textPasswordMustBeLeastEightCharacters": "O campo de senha deve ter pelo menos oito caracteres",
+    "textErrorRegisteringPassword": "Erro ao registrar a senha",
+    "textErrorSendingNewLink": "Erro ao enviar novo link"
+  }
+}
